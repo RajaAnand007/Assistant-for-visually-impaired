@@ -1,7 +1,7 @@
 import io
 from google.oauth2 import service_account
 from google.cloud import vision
-import dialogflow_v2 as dialogflow
+import dialogflow_v2 as google-cloud-dialogflow
 import cv2
 
 def detect_text(cam, engine):
